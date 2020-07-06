@@ -1,0 +1,5 @@
+# Project exclude paths
+/Maven-java/target/
+/MavenWeb/MavenWeb/target/
+/SpringDay01/target/
+/SpringDay02/target/

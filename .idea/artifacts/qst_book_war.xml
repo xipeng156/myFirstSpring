@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="qst_book:war">
+    <output-path>$PROJECT_DIR$/../java/qst_book/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>qst_book</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="qst_book.war">
+      <element id="artifact" artifact-name="qst_book:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MavenWeb" />
+        <module name="MyBatis01_shiyan1" />
+        <module name="springmvc02" />
+        <module name="SpringDay10" />
+        <module name="MyBatis01" />
+        <module name="Maven-java" />
+        <module name="SpringDay01" />
+        <module name="qst_book" />
+        <module name="SpringDay06" />
+        <module name="SpringDay09" />
+        <module name="SpringDay08" />
+        <module name="SpringDay02_1" />
+        <module name="SpringDay07" />
+        <module name="Springmvc01" />
+        <module name="SpringDay04" />
+        <module name="SpringDay03" />
+        <module name="SpringDay02" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Maven-java" target="1.5" />
+      <module name="MavenWeb" target="1.8" />
+      <module name="MyBatis01" target="1.5" />
+      <module name="MyBatis01_shiyan1" target="1.5" />
+      <module name="qst_book" target="1.7" />
+      <module name="SpringDay01" target="1.7" />
+      <module name="SpringDay02" target="1.5" />
+      <module name="SpringDay02_1" target="1.5" />
+      <module name="SpringDay03" target="1.5" />
+      <module name="SpringDay04" target="1.7" />
+      <module name="SpringDay06" target="1.5" />
+      <module name="SpringDay07" target="1.5" />
+      <module name="SpringDay08" target="1.5" />
+      <module name="SpringDay09" target="1.5" />
+      <module name="SpringDay10" target="1.5" />
+      <module name="Springmvc01" target="1.7" />
+      <module name="springmvc02" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

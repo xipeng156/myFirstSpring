@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../java/qst_book" />
+    <file type="web" url="file://$PROJECT_DIR$/../java/SpringDay04" />
+    <file type="web" url="file://$PROJECT_DIR$/../java/Springmvc01" />
+    <file type="web" url="file://$PROJECT_DIR$/../java/springmvc02" />
+    <file type="web" url="file://$PROJECT_DIR$/../QST/SpringDay4" />
+    <file type="web" url="file://$PROJECT_DIR$/MavenWeb/MavenWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringDay01" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringDay04" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/MavenWeb/MavenWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven-java/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDay01/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDay02/pom.xml" />
+        <option value="$PROJECT_DIR$/myFirstSpring/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDay03/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDay04/pom.xml" />
+        <option value="$PROJECT_DIR$/../QST/SpringDay4/pom.xml" />
+        <option value="$PROJECT_DIR$/../java/SpringDay04/pom.xml" />
+        <option value="$PROJECT_DIR$/../java/SpringDay06/pom.xml" />
+        <option value="$PROJECT_DIR$/../java/SpringDay07/pom.xml" />
+        <option value="$PROJECT_DIR$/../java/SpringDay08/pom.xml" />
+        <option value="$PROJECT_DIR$/../java/SpringDay09/pom.xml" />
+        <option value="$PROJECT_DIR$/../java/SpringDay10/pom.xml" />
+        <option value="$PROJECT_DIR$/../java/Springmvc01/pom.xml" />
+        <option value="$PROJECT_DIR$/../java/qst_book/pom.xml" />
+        <option value="$PROJECT_DIR$/../java/springmvc02/pom.xml" />
+        <option value="$PROJECT_DIR$/../java/MyBatis01/pom.xml" />
+        <option value="$PROJECT_DIR$/../java/MyBatis01_shiyan1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
